@@ -20,3 +20,5 @@ Go to your chrome bookmark manager and click on the menu in the top right and se
 When in a blooket game, just click on the bookmark. Simple as.
   ______
 // c==8 \\\
+
+Heres a silly ass website I made in 4 min with wix: https://poopyfart4444e.wixsite.com/aterx
