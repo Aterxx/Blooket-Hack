@@ -5,6 +5,9 @@ This is an archive of blooket hacks as schoolcheats.net is blocked in some schoo
 
 Some of the bookmarks have names that arent understandable in any fucking language as for some reason I thought my teachers would care but they don't. Just try the bookmarks for yourself and if you want then rename them to something an alien could atleast understand.
 
+# Version 1 is bad
+Don't install it unless I messed something up in V2, and if so let me know on discord Aterx#4365
+
 # How to install
 Download Blooket-Hack-blook.zip (for v2+ click on the blue text at the top of the release), send it to google drive, then go to
 https://zip.softgateon.net/?m=UnZip_Viewer&state=%7B%22ids%22:%5B%221-RVQkfNTeteUgd2659mIsm7mQW7Nj1pn%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D
