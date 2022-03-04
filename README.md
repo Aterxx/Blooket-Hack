@@ -16,6 +16,9 @@ Click on the '.html' file in blue text, then click 'Download this file' to the r
 
 Go to your chrome bookmark manager and click on the menu in the top right and select 'Import bookmarks' and select the '.html' file.
 
+# For Versions 2.0+ The above should be useless
+Just download the .html file, go to bookmark manager, import bookmarks, and select the .html file
+
 # How to use
 When in a blooket game, just click on the bookmark. Simple as.
   ______
