@@ -9,9 +9,9 @@ Some of the bookmarks have names that arent understandable in any fucking langua
 Don't install it unless I messed something up in V2, and if so let me know on discord Aterx#4365
 
 # How to install
-Download Blooket-Hack-blook.zip (for v2+ click on the blue text at the top of the release), send it to google drive, then go to
+Download Blooket-Hack-blook.zip (for v2+ click on the blue text at the top of the release), send it to google drive, then go to 
 https://zip.softgateon.net/?m=UnZip_Viewer&state=%7B%22ids%22:%5B%221-RVQkfNTeteUgd2659mIsm7mQW7Nj1pn%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D
-(you need to use this because chrome books (if your school has those. if not just right click on the file and press unzip.) can't unzip zip files for some reason)
+ (you need to use this because chrome books (if your school has those. if not just right click on the file and press unzip.) can't unzip zip files for some reason)
 
 <details><summary>Installing the .zip for idiots</summary>(Scroll up a bit and click 'Releases' on the right and then click 'Assets' and click on 'Source Code')</details>
 
